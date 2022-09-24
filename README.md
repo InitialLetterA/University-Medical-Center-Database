@@ -1,2 +1,3 @@
 # University-Medical-Center-Database
 University Medical Center Database Project
+This project designs, implements, and tests a University Medical Center (UMC) database. This project presents the relationship between patient, employee, and facility of a hospital database. In this project, it has 4 parts, Data Design, Data Implementation, Database Testing, and Conclusion. Data Design part includes the E/R diagram. Data Implementation part has table creation and data insertion. In the Testing part, several views, stored procedures, user defined functions, triggers, transaction, and scripts are shown to verify the database design.
